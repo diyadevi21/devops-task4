@@ -18,9 +18,13 @@ Build a version-controlled DevOps project using Git.
 4. Made changes, committed them
 5. Merged back into main
 
-## Proof of Work:
+## Files Added
+- file1.txt
+- file2.txt
+- for screenshot
+- README.md
 
-All commands and steps are captured in the screenshot(s) below:  
-[Click here to view PDF of screenshots]( "C:\Users\HP\Documents\screenshot.jpg.docs" )
+  ## Author
+  diyadevi21
 
    
